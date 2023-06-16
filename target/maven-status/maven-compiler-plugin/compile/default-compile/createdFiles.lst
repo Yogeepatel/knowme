@@ -1,0 +1,8 @@
+com\knowme\backend\PortfoliobackendApplication.class
+com\knowme\backend\service\backendServiceImpl.class
+com\knowme\backend\entity\feedback.class
+com\knowme\backend\dto\feedbackDTO.class
+com\knowme\backend\repository\messagerepository.class
+com\knowme\backend\service\backendService.class
+com\knowme\backend\api\backendapi.class
+com\knowme\backend\utility\LoggingAspect.class
